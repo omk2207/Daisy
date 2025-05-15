@@ -1,7 +1,7 @@
 # Bot configuration
 
 # Bot token from BotFather
-TOKEN = '6972425077:AAG1-KTOtuR-qVO6siEP1sOnyilWbds8Sy4'
+TOKEN = '7237093979:AAEFQvt03RrZUZIN8CBufBVt3775VxbIJBM'
 
 # Bot owner details
 OWNER_ID = 6008343239
